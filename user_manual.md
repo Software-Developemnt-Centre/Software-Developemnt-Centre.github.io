@@ -1,4 +1,4 @@
-#Manual to login at gne11.gndec.ac.in and making a journal entry
+# Manual to login at gne11.gndec.ac.in and making a journal entry
 
 Step 1: Accessing the ERPNext Site
 1. Open a web browser (e.g., Google Chrome, Mozilla Firefox).
